@@ -1,0 +1,43 @@
+div.bts{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 900px;
+    height: 600px;
+    background-color: #fff;
+    box-sizing:border-box;
+    width: 900px;
+    height: 720px;
+    background-color: #dc85e4;
+}
+
+div p{
+    color: white;
+    font-size: 75px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div div{
+    width: 900px;
+    height: 250px;
+    background-color: #e5c6ee;
+    position:absolute;
+}
+
+div div div p{
+    color: #5d0e6f;
+    font-size: 77px;
+    margin-top: 50px;
+}
+
+div div div{
+    width: 200px;
+    height:200px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 30px;;
+}
